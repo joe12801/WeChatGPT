@@ -1,0 +1,9 @@
+Package: me.ray.wechatgpt
+Name: wechat_gpt
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ray
+Author: ray
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
