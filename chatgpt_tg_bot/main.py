@@ -70,7 +70,7 @@ def main() -> None:
     # Create the Application and pass it your bot's token.
     # proxy_url = 'http://127.0.0.1:7890'  # can also be a https proxy
     application = Application.builder() \
-        .token("<YOUR TG BOT TOKEN>") \
+        .token("AAEES386X-HBhNOtRazAvb9cTYaj05ilSss") \
         .build()
 
     # on different commands - answer in Telegram
